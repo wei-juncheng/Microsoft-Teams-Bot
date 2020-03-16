@@ -11,6 +11,7 @@
 ## 操作流程
 1. 開啟Azure Bot Service中的Teams通道
 2. 使用Teams中的App Studio工具建構Teams App
+3. 匯出成壓縮檔並且在Teams中上傳測試
 
 ### 開啟Azure Bot Service中的Teams通道
 
@@ -95,7 +96,7 @@
 1. 點選Teams App左側選單中的【…】(More Added Apps)功能，再點選【More apps >】按鈕
 ![](https://i.imgur.com/JwvjKoG.png)
 
-2. 點選【Uploaded a custom app】即可將剛剛製作完成的Bot 壓縮檔匯入，在點選【Add】即可開始與Bot溝通，您亦可將這個zip壓縮檔傳送給您的夥伴，對方只要依照相同的方式將zip檔案上傳也可與您的Bot開始對話。
+2. 點選【Uploaded a custom app】即可將剛剛製作完成的Bot 壓縮檔匯入，匯入後再點選【Add】即可開始與Bot溝通，您亦可將這個zip壓縮檔傳送給您的夥伴，對方只要依照相同的方式將zip檔案上傳也可與您的Bot開始對話。
 ![](https://i.imgur.com/dso6HgU.png)
 ![](https://i.imgur.com/es2spjF.png)
 ## 結語:
